@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="북극 위에서 내려다본 지구. 태양은 오른쪽, 지구의 왼쪽 반은 밤. 지구 맨 위(12시 방향)에 사람이 있고, 지구는 시계 반대 방향으로 돈다.">
+  <rect width="640" height="360" rx="20" fill="#EAF4FA"/>
+  <g stroke="#F2B83A" stroke-width="4" stroke-linecap="round" opacity=".7">
+    <line x1="500" y1="120" x2="420" y2="120"/><line x1="500" y1="180" x2="420" y2="180"/><line x1="500" y1="240" x2="420" y2="240"/>
+  </g>
+  <circle cx="560" cy="180" r="46" fill="#F7C548" stroke="#E3A72F" stroke-width="4"/>
+  <text x="560" y="258" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="24" font-weight="700" fill="#8A5A00">태양</text>
+  <circle cx="270" cy="180" r="120" fill="#5FA2DA"/>
+  <path d="M270 60 A120 120 0 0 0 270 300 Z" fill="#1E2A3A"/>
+  <circle cx="270" cy="180" r="120" fill="none" stroke="#1E2A3A" stroke-width="3"/>
+  <circle cx="270" cy="180" r="22" fill="#FDFEFE"/>
+  <text x="270" y="187" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="17" font-weight="700" fill="#1E2A3A">북극</text>
+  <text x="200" y="190" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="28" font-weight="700" fill="#FDFEFE">밤</text>
+  <text x="340" y="190" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="28" font-weight="700" fill="#1E2A3A">낮</text>
+  <g fill="#E3483F" stroke="#FDFEFE" stroke-width="3">
+    <circle cx="270" cy="38" r="13"/>
+    <rect x="262" y="49" width="16" height="16" rx="4"/>
+  </g>
+  <text x="300" y="44" font-family="Noto Sans KR, sans-serif" font-size="22" font-weight="700" fill="#E3483F">이 사람</text>
+  <path d="M150 96 A150 150 0 0 0 142 252" fill="none" stroke="#E3A72F" stroke-width="6" stroke-linecap="round"/>
+  <path d="M128 246 L156 250 L144 272 Z" fill="#E3A72F"/>
+  <text x="70" y="186" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="22" font-weight="700" fill="#B8651B">자전</text>
+</svg>
